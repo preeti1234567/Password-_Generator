@@ -12,5 +12,7 @@ The purpose of this assignment was to generate password with different sets of r
 
 3. *CSS*
 
-My url Link ->  (https://preeti1234567.github.io/Portfolio_Homework/)
+My url Link ->  (https://preeti1234567.github.io/Password-_Generator/)
+
+
 
